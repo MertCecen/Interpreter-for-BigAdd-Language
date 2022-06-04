@@ -1,0 +1,19 @@
+int size.
+int val.
+move 5 to val.
+int sum.
+move 5 to size.
+loop size times
+[out size, newline.
+add size to sum.
+]
+out newline, "Sum:", sum.
+sub 18 from sum.
+out newline, "Sum:", sum.
+loop 3 times
+[
+add 30 to sum.
+]
+out newline, "Sum:", sum.
+
+

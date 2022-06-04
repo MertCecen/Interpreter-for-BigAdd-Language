@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1625770383 source:d:\c\parser\main.c
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+
